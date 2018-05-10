@@ -1,0 +1,12 @@
+
+    body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+        background-image: url("20.jpg");
+        
+        background-repeat: no-repeat;
+    background-position:   right top left;
+    background-attachment: fixed;
+      }
+   
